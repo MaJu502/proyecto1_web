@@ -9,6 +9,7 @@
     left: 500px;
     margin-top: 48px;
     list-style-type: none;
+    width: fit-content;
 }
 
 .textoUnicef{
@@ -34,10 +35,12 @@
     left: 115px;
     bottom: 18px;
     font-size: 15px;
+    width: fit-content;
 }
 
 .foto{
     list-style-type: none;
     position: relative;
     right: 4px;
+    width: fit-content;
 }
