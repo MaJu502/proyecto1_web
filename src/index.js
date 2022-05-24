@@ -4,6 +4,7 @@ import Navbar from './componentes/Navbar.jsx'
 import Divunicef from './componentes/Unicef.jsx'
 import DivTV from './componentes/Divtv.jsx'
 import Iphone13pro from './componentes/Iphone13pro.jsx'
+import Iphonese from './componentes/Iphonese.jsx'
 import './styles/Master.css'
 
 const App = () => (
@@ -14,6 +15,8 @@ const App = () => (
     <DivTV />
     <br />
     <Iphone13pro />
+    <br />
+    <Iphonese />
   </nav>
 )
 

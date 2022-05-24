@@ -1,0 +1,60 @@
+.containerIphonse{
+    background-image: url('https://www.apple.com/v/home/ao/images/heroes/iphone-se/hero_iphonese_avail__eg8srhcnpo66_large.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    height: 595px;
+    margin-top: -50px;
+    background-position: 50% 100%;
+}
+
+.titulonew{
+    margin-bottom: -45px;
+    font-size: 21px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 550;
+    margin-left: 150px;
+}
+
+.copycontainer{
+    display: block;
+    padding-top: 15px;
+    padding-left: 568px;
+}
+
+.lista_links{
+    display: flex;
+    margin-top: -50px;
+    margin-left: 30px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 21px;
+    list-style-type: none;
+    text-decoration: none;
+    color: rgb(0, 102, 204);
+}
+
+.lista_links :hover{
+    text-decoration: underline;
+}
+
+.li_link{
+    padding-right: 35px;
+}
+
+.tituloIphonese {
+    background-image: url('https://www.apple.com/v/home/ao/images/logos/iphone-se/logo_hero_iphonese__dtb7zrygggeq_large.png');
+    background-repeat: no-repeat;
+    max-height: 55px;
+    height: 55px;
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-bottom: 40px;
+}
+
+.titulopower{
+    color: rgb(29, 29, 31);
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif ;
+    font-size: 28px;
+    font-weight: 400;
+    margin-top: -53px;
+}
