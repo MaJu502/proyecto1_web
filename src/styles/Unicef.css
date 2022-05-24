@@ -1,0 +1,43 @@
+.containerUnicef{
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.contenidoUnicef{
+    position: relative;
+    left: 500px;
+    margin-top: 48px;
+    list-style-type: none;
+}
+
+.textoUnicef{
+    position: relative;
+    bottom: 11px;
+    left: 15px;
+    font-family:  "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    text-decoration: none;
+}
+
+.textoUnicef ::hover{
+    text-decoration:underline;
+    color: green;
+}
+
+.estees :hover{
+    list-style-type: none;
+    text-decoration:underline;
+}
+
+.estees {
+    position: relative;
+    left: 115px;
+    bottom: 18px;
+    font-size: 15px;
+}
+
+.foto{
+    list-style-type: none;
+    position: relative;
+    right: 4px;
+}
