@@ -8,28 +8,29 @@
 
 .copycontainer{
     display: block;
-    padding-top: 250px;
+    padding-top: 550px;
     padding-left: 410px;
 }
 
 .containertitulo{
     justify-content: center;
     align-items: center;
-    margin-left: 60px;
+    margin-left: -135px;
     width: fit-content;
 }
 
 .container_tv{
-    margin-left: 320px;
+    margin-left: 130px;
+    margin-top: 230px;
     width: fit-content;
 }
 
 .containertitulo2{
-    margin-left: 170px;
+    margin-left: -25px;
 }
 
 .streamnow{
-    margin-left: 300px;
+    margin-left: 115px;
     background-color: white;
     border: 0px;
     border-radius: 50px;

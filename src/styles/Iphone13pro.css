@@ -1,0 +1,50 @@
+.containeriphone{
+    background-image: url('https://www.apple.com/v/home/ao/images/heroes/iphone-13-pro/hero_iphone13pro_avail__iy77cld0zwii_large.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    height: 595px;
+    margin-top: -50px;
+    background-position: 50% 100%;
+}
+
+.copycontainer{
+    display: block;
+    padding-top: 15px;
+    padding-left: 568px;
+}
+
+.lista_links{
+    display: flex;
+    margin-top: -50px;
+    margin-left: 30px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 21px;
+    list-style-type: none;
+    text-decoration: none;
+    color: rgb(0, 102, 204);
+}
+
+.lista_links :hover{
+    text-decoration: underline;
+}
+
+.li_link{
+    padding-right: 35px;
+}
+
+.tituloIphone {
+    color: rgb(29, 29, 31);
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif ;
+    font-size: 56px;
+    font-weight: 600;
+}
+
+.tituloOhSoPro{
+    color: rgb(29, 29, 31);
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif ;
+    font-size: 28px;
+    font-weight: 400;
+    margin-top: -53px;
+    margin-left: 110px;
+}

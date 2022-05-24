@@ -3,8 +3,8 @@
     display:block;
     width: 100%;
     height: 48px;
-    max-height: 44px;
-    font-size: 11px;
+    max-height: 48px;
+    font-size: 13px;
     font-family:  "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
     font-weight: normal;
     color: rgba(255, 255, 255, 0.838);
@@ -19,7 +19,7 @@
 .items_list{
     justify-content: center;
     align-items: center;
-    padding-left: 300px;
+    padding-left: 250px;
     padding-right: 300px;
 }
 
@@ -30,7 +30,7 @@
     list-style-type: none;
     padding-left: 22px;
     padding-right: 22px;
-    margin: -11px;
+    margin: -16px;
 }
 
 .grclassName_items{

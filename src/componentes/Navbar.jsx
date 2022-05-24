@@ -9,7 +9,7 @@ const Navbar = () => {
   const tituloTV = 'Tv & Home'
 
   return (
-    <div className="navbar">
+    <header className="navbar">
       <div className="items_list">
         <ul className="grclassName_items">
           <li className="nav_home">
@@ -53,7 +53,7 @@ const Navbar = () => {
           </li>
         </ul>
       </div>
-    </div>
+    </header>
   )
 }
 
