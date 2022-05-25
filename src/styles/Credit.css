@@ -1,0 +1,62 @@
+.containercredit{
+    background-image: url("https://i.postimg.cc/FzpcV1LK/creditapple.png");
+    background-repeat: no-repeat;
+    width: 725px;
+    height: 630px;
+    background-position: 90% 10%;
+    margin-right: 15px;
+}
+
+.fecha_credit{
+    color: rgb(191, 72, 0);
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif ;
+    font-size: 19px;
+    font-weight: 550;
+    margin-left: -320px;
+    margin-bottom: -45px;
+    margin-top: -1px;
+}
+
+.credittitle1{
+    color: rgb(29, 29, 31);
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif ;
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: -415px;
+}
+.credittitle2{
+    color: rgb(29, 29, 31);
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif ;
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: -383px;
+    margin-top: -30px;
+    margin-bottom: -30px;
+}
+
+.titulo1credit{
+    color: rgb(29, 29, 31);
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif ;
+    font-size: 21px;
+    font-weight: 400;
+    margin-left: -388px;
+}
+.titulo2credit{
+    color: rgb(29, 29, 31);
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif ;
+    font-size: 21px;
+    font-weight: 400;
+    margin-left: -375px;
+    margin-top: -18px;
+}
+
+.linkscredit{
+    display: flex;
+    margin-top: -50px;
+    margin-left: -320px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 21px;
+    list-style-type: none;
+    text-decoration: none;
+    color: rgb(0, 102, 204);
+}

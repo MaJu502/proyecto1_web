@@ -13,11 +13,11 @@ const App = () => (
     <Navbar />
     <br />
     <Divunicef />
-    <DivTV />
-    <br />
     <Iphone13pro />
     <br />
     <Iphonese />
+    <br />
+    <DivTV />
     <br />
     <Griddisplay />
   </nav>
