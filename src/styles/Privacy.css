@@ -1,0 +1,31 @@
+.containerprivacy{
+    background-image: url("https://i.postimg.cc/x8Lk68Nm/privacyapple.png");
+    background-repeat: no-repeat;
+    width: 750px;
+    height: 630px;
+    background-position: 90% 10%;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+.tituloprivacy{
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif ;
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+    margin-left: -410px;
+}
+
+.linksprivacy{
+    display: flex;
+    margin-top: -50px;
+    margin-left: -265px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+}
+
+.linksprivacy :hover{
+    text-decoration: underline;
+}

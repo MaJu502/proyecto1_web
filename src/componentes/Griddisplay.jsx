@@ -4,6 +4,7 @@ import React, { useState } from 'react'
 import '../styles/Griddisplay.css'
 import Wwdc from './Wwdc.jsx'
 import Credit from './Credit.jsx'
+import Privacy from './Privacy.jsx'
 
 const Grid = () => {
   const nombre = 'hola'
@@ -12,7 +13,7 @@ const Grid = () => {
     <div className="grid_elements">
       <Wwdc />
       <Credit />
-      <button type="button">hola</button>
+      <Privacy />
       <button type="button">hola</button>
       <button type="button">hola</button>
       <button type="button">hola</button>
