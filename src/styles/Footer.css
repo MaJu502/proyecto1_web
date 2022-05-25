@@ -24,4 +24,21 @@
     grid-template-columns: repeat(5,1fr);
     padding-left: 250px;
     padding-right: 250px;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 13px;
+    color: rgb(66, 66, 69);
+}
+
+.nav_li_titulo{
+    color: rgb(29, 29, 31);
+    font-weight: 600;
+}
+
+.columna_shop{
+    list-style: none;
+}
+
+.nav_li :hover{
+    text-decoration: underline;
+    color: rgb(66, 66, 69);
 }
