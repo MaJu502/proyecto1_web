@@ -5,6 +5,7 @@ import '../styles/Footer.css'
 
 const Footer = () => {
   const TV = 'TV & Home'
+  const ethics = 'Ethics & Compliance'
 
   return (
     <div className="container_footer">
@@ -27,7 +28,7 @@ const Footer = () => {
       </div>
       <hr className="separador" />
       <div className="grid_links">
-        <ul className="columna_shop">
+        <ul className="columna">
           <li className="nav_li_titulo">
             <p className="titulo_footer">Shop and Learn</p>
           </li>
@@ -65,10 +66,230 @@ const Footer = () => {
             <p>Gift Cards</p>
           </li>
         </ul>
-        <button type="button">hola</button>
-        <button type="button">hola</button>
-        <button type="button">hola</button>
-        <button type="button">hola</button>
+        <ul>
+          <ul className="columna">
+            <li className="nav_li_titulo">
+              <p className="titulo_footer">Services</p>
+            </li>
+            <li className="nav_li">
+              <p>Apple Music</p>
+            </li>
+            <li className="nav_li">
+              <p>Apple TV+</p>
+            </li>
+            <li className="nav_li">
+              <p>Apple Fitness+</p>
+            </li>
+            <li className="nav_li">
+              <p>Apple News+</p>
+            </li>
+            <li className="nav_li">
+              <p>Apple Arcade</p>
+            </li>
+            <li className="nav_li">
+              <p>iCloud</p>
+            </li>
+            <li className="nav_li">
+              <p>Apple One</p>
+            </li>
+            <li className="nav_li">
+              <p>Apple Card</p>
+            </li>
+            <li className="nav_li">
+              <p>Apple Books</p>
+            </li>
+            <li className="nav_li">
+              <p>Apple Podcasts</p>
+            </li>
+            <li className="nav_li">
+              <p>App Store</p>
+            </li>
+          </ul>
+          <ul className="columna">
+            <li className="nav_li_titulo">
+              <p className="titulo_footer">Account</p>
+            </li>
+            <li className="nav_li">
+              <p>Manage Your Apple ID</p>
+            </li>
+            <li className="nav_li">
+              <p>Apple Store Account</p>
+            </li>
+            <li className="nav_li">
+              <p>iCloud.com</p>
+            </li>
+          </ul>
+        </ul>
+        <ul className="columna">
+          <li className="nav_li_titulo">
+            <p className="titulo_footer">Apple Store</p>
+          </li>
+          <li className="nav_li">
+            <p>Find a Store</p>
+          </li>
+          <li className="nav_li">
+            <p>Genius Bar</p>
+          </li>
+          <li className="nav_li">
+            <p>Today at Apple</p>
+          </li>
+          <li className="nav_li">
+            <p>Apple Camp</p>
+          </li>
+          <li className="nav_li">
+            <p>Apple Store App</p>
+          </li>
+          <li className="nav_li">
+            <p>Refurbished and Clearance</p>
+          </li>
+          <li className="nav_li">
+            <p>Financing</p>
+          </li>
+          <li className="nav_li">
+            <p>Apple Trade In</p>
+          </li>
+          <li className="nav_li">
+            <p>Order Status</p>
+          </li>
+          <li className="nav_li">
+            <p>Shopping Help</p>
+          </li>
+        </ul>
+        <ul>
+          <ul className="columna">
+            <li className="nav_li_titulo">
+              <p className="titulo_footer">For Business</p>
+            </li>
+            <li className="nav_li">
+              <p>Apple and Business</p>
+            </li>
+            <li className="nav_li">
+              <p>Shop for Business</p>
+            </li>
+          </ul>
+          <ul className="columna">
+            <li className="nav_li_titulo">
+              <p className="titulo_footer">For Education</p>
+            </li>
+            <li className="nav_li">
+              <p>Apple and Education</p>
+            </li>
+            <li className="nav_li">
+              <p>Shop for K-12</p>
+            </li>
+            <li className="nav_li">
+              <p>Shop for Collage</p>
+            </li>
+          </ul>
+          <ul className="columna">
+            <li className="nav_li_titulo">
+              <p className="titulo_footer">For Healthcare</p>
+            </li>
+            <li className="nav_li">
+              <p>Apple in Healthcare</p>
+            </li>
+            <li className="nav_li">
+              <p>Health on Apple Watch</p>
+            </li>
+            <li className="nav_li">
+              <p>Health Records on iPhone</p>
+            </li>
+          </ul>
+          <ul className="columna">
+            <li className="nav_li_titulo">
+              <p className="titulo_footer">For Government</p>
+            </li>
+            <li className="nav_li">
+              <p>Shop for Government</p>
+            </li>
+            <li className="nav_li">
+              <p>Shop for Veterans and Military</p>
+            </li>
+          </ul>
+        </ul>
+        <ul>
+          <ul className="columna">
+            <li className="nav_li_titulo">
+              <p className="titulo_footer">Apple Values</p>
+            </li>
+            <li className="nav_li">
+              <p>Accesability</p>
+            </li>
+            <li className="nav_li">
+              <p>Education</p>
+            </li>
+            <li className="nav_li">
+              <p>Enviroment</p>
+            </li>
+            <li className="nav_li">
+              <p>Inclusion and Diversity</p>
+            </li>
+            <li className="nav_li">
+              <p>Privacy</p>
+            </li>
+            <li className="nav_li">
+              <p>Racial Equity and Justice</p>
+            </li>
+            <li className="nav_li">
+              <p>Supplier Responsability</p>
+            </li>
+          </ul>
+          <ul className="columna">
+            <li className="nav_li_titulo">
+              <p className="titulo_footer">About Apple</p>
+            </li>
+            <li className="nav_li">
+              <p>Newsroom</p>
+            </li>
+            <li className="nav_li">
+              <p>Apple Leadership</p>
+            </li>
+            <li className="nav_li">
+              <p>Career Opportunities</p>
+            </li>
+            <li className="nav_li">
+              <p>Investors</p>
+            </li>
+            <li className="nav_li">
+              <p>{ethics}</p>
+            </li>
+            <li className="nav_li">
+              <p>Events</p>
+            </li>
+            <li className="nav_li">
+              <p>Contact Apple</p>
+            </li>
+          </ul>
+        </ul>
+      </div>
+      <div className="container_texto_top">
+        <p>More ways to shop: Find an Apple Store or other retailer near you. Or call 1-800-MY-APPLE.</p>
+      </div>
+      <hr className="separador" />
+      <div className="container_copyright">
+        <ul className="footer_items">
+          <li className="copy_text_li">
+            <p>Copyright © 2022 Apple Inc. All rights reserved.</p>
+          </li>
+          <li className="linkers">
+            <p>Privacy Policy</p>
+          </li>
+          <li className="linkers">
+            <p>Terms of Use</p>
+          </li>
+          <li className="linkers">
+            <p>Sales and Refunds</p>
+          </li>
+          <li className="linkers">
+            <p>Legal</p>
+          </li>
+          <li className="linkers">
+            <p>Site Map</p>
+          </li>
+          <li className="states">
+            <p>United States</p>
+          </li>
+        </ul>
       </div>
     </div>
   )

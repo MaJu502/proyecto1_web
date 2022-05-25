@@ -4,7 +4,7 @@
 
 .container_texto_top{
     font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
-    font-size: 12px;
+    font-size: 13.5px;
     font-weight: 400;
     color: rgb(110, 110, 115);
     margin-left: 252px;
@@ -27,18 +27,53 @@
     font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
     font-size: 13px;
     color: rgb(66, 66, 69);
+    width: fit-content;
 }
 
 .nav_li_titulo{
     color: rgb(29, 29, 31);
     font-weight: 600;
+    width: fit-content;
 }
 
-.columna_shop{
+.columna{
     list-style: none;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-right: 15px;
 }
 
 .nav_li :hover{
     text-decoration: underline;
     color: rgb(66, 66, 69);
+}
+
+.container_copyright  li{
+    max-width: 980px;
+    position: relative;
+    justify-content: center;
+    list-style-type: none;
+    padding-left: 22px;
+    padding-right: 22px;
+    margin: -16px;
+}
+
+.footer_items{
+    width: 996px;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: content-box;
+    padding: 0px 0px 0px 0px;
+    margin-left: 240px;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 13px;
+    color: rgb(66, 66, 69);
+}
+
+.linkers :hover{
+    text-decoration: underline;
+}
+
+.states :hover {
+    text-decoration: underline;
 }
