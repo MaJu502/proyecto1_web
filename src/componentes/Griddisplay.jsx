@@ -7,6 +7,7 @@ import Credit from './Credit.jsx'
 import Privacy from './Privacy.jsx'
 import Watch from './Watch.jsx'
 import Appstore from './Appstore.jsx'
+import Pride from './Pride.jsx'
 
 const Grid = () => {
   const nombre = 'hola'
@@ -18,7 +19,7 @@ const Grid = () => {
       <Privacy />
       <Watch />
       <Appstore />
-      <button type="button">hola</button>
+      <Pride />
     </div>
   )
 }

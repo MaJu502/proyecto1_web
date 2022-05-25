@@ -1,34 +1,35 @@
-.containerwatch{
-    background-image: url("https://i.postimg.cc/xdWM5WpW/watchapple.png");
+.containerpride{
+    background-image: url("https://i.postimg.cc/Rhdp8c85/pridewatchesapple.png");
     background-repeat: no-repeat;
     width: 725px;
     height: 630px;
-    background-position: 90% 10%;
+    background-position: 50% 50%;
     margin-right: 15px;
     margin-top: 10px;
 }
-.titulowatch{
-    background-image: url('https://www.apple.com/v/home/ao/images/logos/watch-series-7/promo_logo_watch_lte__emrof7zzkriq_large.png');
+
+.titulopride{
+    background-image: url('https://www.apple.com/v/home/ao/images/logos/watch-pride/promo_logo_pride__dpzv5qdo3com_large.png');
     background-repeat: no-repeat;
     max-height: 55px;
     height: 55px;
-    margin-left: -290px;
-    margin-bottom: -25px;
+    margin-left: -310px;
     margin-top: 20px;
 }
 
-.titulo1watch{
+.titulopridetop{
     color: rgb(29, 29, 31);
     font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif ;
-    font-size: 21px;
-    font-weight: 400;
-    margin-left: -340px;
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: -345px;
+    margin-bottom: -30px;
 }
 
-.linkswatch{
+.linkspride{
     display: flex;
     margin-top: -50px;
-    margin-left: -355px;
+    margin-left: -415px;
     font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 19px;
     list-style-type: none;
@@ -36,10 +37,10 @@
     color: rgb(0, 102, 204);
 }
 
-.linkswatch :hover{
+.linkspride :hover{
     text-decoration: underline;
 }
 
-.li_linkwatch{
+.li_linkpride{
     margin-right: 20px;
 }
