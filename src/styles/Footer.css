@@ -1,0 +1,27 @@
+.container_footer{
+    background-color: rgb(245, 245, 247);
+}
+
+.container_texto_top{
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: rgb(110, 110, 115);
+    margin-left: 252px;
+    padding-top: 25px;
+}
+
+.texto_footertop {
+    margin-top: -5px;
+}
+
+.separador {
+    width: 1025px;
+}
+
+.grid_links{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    padding-left: 250px;
+    padding-right: 250px;
+}
