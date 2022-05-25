@@ -1,0 +1,48 @@
+.containerappstore{
+    background-image: url("https://i.postimg.cc/dtNSj0v3/appstoreapple.png");
+    background-repeat: no-repeat;
+    width: 750px;
+    height: 630px;
+    background-position: 90% 10%;
+    margin-right: 15px;
+}
+.tituloappstore{
+    background-image: url('https://www.apple.com/v/home/ao/images/logos/app-store/logo__dcojfwkzna2q_large.png');
+    background-repeat: no-repeat;
+    max-height: 55px;
+    height: 55px;
+    margin-left: -290px;
+    margin-bottom: -40px;
+    margin-top: 23px;
+}
+
+.titulo1appstore{
+    color: rgb(29, 29, 31);
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif ;
+    font-size: 22px;
+    font-weight: 400;
+    margin-left: -332px;
+}
+.titulo2appstore{
+    color: rgb(29, 29, 31);
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif ;
+    font-size: 22px;
+    font-weight: 400;
+    margin-left: -295px;
+    margin-top: -20px;
+}
+
+.linksappstore{
+    display: flex;
+    margin-top: -50px;
+    margin-left: -273px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 21px;
+    list-style-type: none;
+    text-decoration: none;
+    color: rgb(0, 102, 204);
+}
+
+.linksappstore :hover{
+    text-decoration: underline;
+}

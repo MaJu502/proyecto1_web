@@ -6,6 +6,7 @@ import Wwdc from './Wwdc.jsx'
 import Credit from './Credit.jsx'
 import Privacy from './Privacy.jsx'
 import Watch from './Watch.jsx'
+import Appstore from './Appstore.jsx'
 
 const Grid = () => {
   const nombre = 'hola'
@@ -16,7 +17,7 @@ const Grid = () => {
       <Credit />
       <Privacy />
       <Watch />
-      <button type="button">hola</button>
+      <Appstore />
       <button type="button">hola</button>
     </div>
   )
