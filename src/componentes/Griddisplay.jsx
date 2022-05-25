@@ -5,6 +5,7 @@ import '../styles/Griddisplay.css'
 import Wwdc from './Wwdc.jsx'
 import Credit from './Credit.jsx'
 import Privacy from './Privacy.jsx'
+import Watch from './Watch.jsx'
 
 const Grid = () => {
   const nombre = 'hola'
@@ -14,7 +15,7 @@ const Grid = () => {
       <Wwdc />
       <Credit />
       <Privacy />
-      <button type="button">hola</button>
+      <Watch />
       <button type="button">hola</button>
       <button type="button">hola</button>
     </div>
